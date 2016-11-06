@@ -38,6 +38,7 @@ h3 {
 
 a {
 	text-decoration: none;
+	padding: 5px;
 }
 a:visited {
 	color: black;
